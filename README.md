@@ -1,8 +1,5 @@
 # Game - Kslotski (Terminal Version)
 
----
-
-
 This project was developed for the "Elements of Artificial Intelligence and Data Science" course and aims to **develop and implement a solitaire game**, allowing the program to **solve different versions or levels of this game**, and should include the use of **heuristic search methods and uninformed search methods.**
 
 ---
@@ -65,7 +62,7 @@ Note: The development of the search algorithms' operating mode is based on the w
 This course is part of the **<u>second semester</u>** of the **<u>first year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>** in the academic year 2022/2023. You can find more information about this course at the following link:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="hhttps://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507945">
+  <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507945">
     <img alt="Link to Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=logoColor=white" />
   </a>
 
