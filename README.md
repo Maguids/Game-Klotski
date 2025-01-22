@@ -3,6 +3,7 @@
 This project was developed for the "Elements of Artificial Intelligence and Data Science" course and aims to **develop and implement a solitaire game**, allowing the program to **solve different versions or levels of this game**, and should include the use of **heuristic search methods and uninformed search methods.**
 
 ---
+<br>
 
 ## Programming Language:
 
@@ -10,19 +11,21 @@ This project was developed for the "Elements of Artificial Intelligence and Data
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+<br>
 ## Requirements:
 
 - python version 3.8.10
 
 This was the tested requirement.
 
+<br>
 ## Running the Game:
 In order to start the game, just run:
 
 ```bash 
 python3 start.py
 ```
-
+<br>
 ## About the Game:
 
 ### How to play:
@@ -41,6 +44,7 @@ Klotski is a version of the "PuzzlePacked IQ games", in which the objective of t
 - Option to **choose the desired search algorithm**;
 - **Hint function**, which varies depending on the search algorithm used, which shows the next possible move, just type 'hint'.
 
+<br>
 ## About the repository:
 In the folder <u>"Klotski - Terminal"</u>, you can find several files, each of which is assigned to a specific set of tasks, which are:
 
@@ -56,7 +60,7 @@ In the folder <u>"Klotski - Terminal"</u>, you can find several files, each of w
 
 Note: The development of the search algorithms' operating mode is based on the way the game was created
 
-
+<br>
 ## Link to the course: 
 
 This course is part of the **<u>second semester</u>** of the **<u>first year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>** in the academic year 2022/2023. You can find more information about this course at the following link:
