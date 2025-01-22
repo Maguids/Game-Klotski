@@ -48,6 +48,7 @@ Klotski is a version of the "PuzzlePacked IQ games", in which the objective of t
 - **Hint function**, which varies depending on the search algorithm used, which shows the next possible move, just type 'hint'.
 
 <br>
+
 ## About the repository:
 In the folder <u>"Klotski - Terminal"</u>, you can find several files, each of which is assigned to a specific set of tasks, which are:
 
