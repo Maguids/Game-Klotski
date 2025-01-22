@@ -55,7 +55,7 @@ In the folder <u>"Klotski - Terminal"</u>, you can find several files, each of w
 - creat_board.py ➡️ Function that allows to create the board depending on the chosen level;
 - game.py ➡️ Development of the game Klotski, has all the functions that allows it to work; 
 - menu_terminal.py ➡️ Explains the functionalities of the game and lets you choose the level and the difficulty;
-- play_in_terminal ➡️ Starts the game according to what was chosen in the menu and allows you to use 'Hint';
+- play_in_terminal.py ➡️ Starts the game according to what was chosen in the menu and allows you to use 'Hint';
 - a_star.py ➡️ Development of A*;
 - bfs.py ➡️ Development of BFS;
 - greedy.py ➡️ Development of Greedy;
